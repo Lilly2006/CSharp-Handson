@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadingDemo", "MultithreadingDemo\MultithreadingDemo.csproj", "{8429C5C0-DC31-4604-B6AB-60805BE88AB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiWorkerthread", "MultiWorkerthread\MultiWorkerthread.csproj", "{1C8BE868-F303-44E3-A6B3-A91406CAECC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8429C5C0-DC31-4604-B6AB-60805BE88AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8429C5C0-DC31-4604-B6AB-60805BE88AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8429C5C0-DC31-4604-B6AB-60805BE88AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8429C5C0-DC31-4604-B6AB-60805BE88AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8BE868-F303-44E3-A6B3-A91406CAECC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8BE868-F303-44E3-A6B3-A91406CAECC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8BE868-F303-44E3-A6B3-A91406CAECC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8BE868-F303-44E3-A6B3-A91406CAECC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34D28C2C-F625-465F-ABBB-A2840918A926}
+	EndGlobalSection
+EndGlobal
